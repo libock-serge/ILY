@@ -1,7 +1,7 @@
 {
-  "name": "happy-Valentine",
+  "name": "happy-birthday",
   "version": "1.0.0",
-  "description": "",
+  "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
   "main": "index.js",
   "devDependencies": {
     "browser-sync": "^2.18.13",
@@ -23,7 +23,6 @@
     "Birthday"
   ],
   "author": "Afiur Rahman Fahim",
-  "modification": "GovindCodes",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/faahim/happy-birthday/issues"
